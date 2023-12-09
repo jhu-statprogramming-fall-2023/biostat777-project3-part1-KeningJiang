@@ -9,3 +9,4 @@ temp.*
 .Rproj.user
 CRAN-RELEASE
 revdep
+docs
