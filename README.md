@@ -25,7 +25,7 @@ devtools::install_github("benjaminrich/table1")
 
 ## Information
 + **Author, maintainer, copyright holder:** Benjamin Rich, [Github](https://github.com/benjaminrich/table1)
-+ **Contributor:** Kening Jiang, [Website]()
++ **Contributor:** Kening Jiang, [Website](https://jhu-statprogramming-fall-2023.github.io/biostat777-project3-part1-KeningJiang/)
 
 ## Customization of the website
 + **Customize readme header: ** the package name in the navbar is removed with strip_header: true.
