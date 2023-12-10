@@ -1,0 +1,9 @@
+pandoc: 3.1.1
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  Example analysis: Example analysis.html
+  table1-examples: table1-examples.html
+  table1-latex: table1-latex.html
+last_built: 2023-12-10T21:41Z
+
