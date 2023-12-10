@@ -1,5 +1,5 @@
 ---
-title: "Using table1 with \\LaTeX{} and MS Word"
+title: "Using table1 with LaTeX and MS Word"
 author: "Benjamin Rich"
 date: "`r Sys.Date()`"
 output:

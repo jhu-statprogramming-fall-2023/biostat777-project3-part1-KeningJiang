@@ -3,7 +3,8 @@ Type: Package
 Version: 1.4.4
 Date: 2023-04-23
 Title: Tables of Descriptive Statistics in HTML
-Authors@R: person("Benjamin", "Rich", role=c("aut", "cre", "cph"), email="mail@benjaminrich.net")
+Authors@R: c(person("Benjamin", "Rich", role=c("aut", "cre", "cph"), email="mail@benjaminrich.net"),
+             person("Kening", "Jiang", role = "ctb", email="kjiang7@jhmi.edu"))
 Author: Benjamin Rich [aut, cre, cph]
 Maintainer: Benjamin Rich <mail@benjaminrich.net>
 URL: https://github.com/benjaminrich/table1

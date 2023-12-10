@@ -1,4 +1,39 @@
 pkgdown::build_url: ~
 template:
   bootstrap: 5
-
+  bootswatch: minty
+  theme: breeze-light
+bslib:
+    pkgdown-nav-height: 100px
+    base_font: {google: "Roboto"}
+    heading_font: {google: "Roboto Slab"}
+    code_font: {google: "JetBrains Mono"}
+navbar:
+ bg: primary
+ structure:
+    left:  [reference, news, search]
+    right: [articles]
+ components:
+   articles:
+    text: Vignettes
+    menu:
+    - text: Kening Jiang
+    - text: Example analysis
+      href: articles/Example analysis.html
+    - text: -------
+    - text: Benjamin Rich
+    - text: Using the table1 Package to Create HTML Tables of Descriptive Statistics
+      href: articles/table1-examples.html
+    - text: Using table1 with LaTeX and MS Word
+      href: articles/table1-latex.html
+home:
+  strip_header: true
+  sidebar:
+    structure: [citation, authors, links, license]
+        
+authors:
+  footer:
+    roles: [aut, ctb]
+    text: "Created by"
+  sidebar:
+    roles: [aut, ctb]
