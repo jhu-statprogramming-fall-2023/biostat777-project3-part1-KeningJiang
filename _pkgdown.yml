@@ -1,4 +1,4 @@
-url: ~
+pkgdown::build_url: ~
 template:
   bootstrap: 5
 
