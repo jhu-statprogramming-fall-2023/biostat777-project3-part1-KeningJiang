@@ -24,19 +24,19 @@ devtools::install_github("benjaminrich/table1")
 ```
 
 ## Information
-+ **Author, maintainer, copyright holder:** Benjamin Rich, [Github](https://github.com/benjaminrich/table1)
-+ **Contributor:** Kening Jiang, [Website](https://jhu-statprogramming-fall-2023.github.io/biostat777-project3-part1-KeningJiang/)
++ **Author, maintainer, copyright holder:** Benjamin Rich, [Original Github](https://github.com/benjaminrich/table1)
++ **Contributor:** Kening Jiang, [Website created](https://jhu-statprogramming-fall-2023.github.io/biostat777-project3-part1-KeningJiang/)
 
 ## Customization of the website
-+ **Customize readme header: ** the package name in the navbar is removed with strip_header: true.
++ **Customize readme header:** the package name in the navbar is removed with strip_header: true.
 
-+ **Customize author information in the sidebar, the left part side of the footer, the author page: ** Add Kening jiang as a contributor in the DESCRIPTION file and change the display of both authors and modify text before the author names.
++ **Customize author information in the sidebar, the left part side of the footer, the author page:** Add Kening jiang as a contributor in the DESCRIPTION file and change the display of both authors and modify text before the author names.
 
-+ **Theming: ** Change the (1) bootswatch, (2) theme, and (3) bslib settings to override the defalut theme.
++ **Theming:** Change the (1) bootswatch, (2) theme, and (3) bslib settings to override the default theme.
 
-+ **Customize the Navbar: ** Change the style and layout of the navigation bar by changing the (1) structure and (2) component where the articles menu is updated to include original vignettes from the developer and the example analysis that's newly added.
++ **Customize the Navbar:** Change the style and layout of the navigation bar by changing the (1) structure and (2) component where the articles menu is updated to include original vignettes from the developer and the example analysis that's newly added.
 
-+ **Customize the sidebar: ** Update the sidebar to include citation, authors, links and license with the DESCRIPTION file updated correspondingly.
++ **Customize the sidebar:** Update the sidebar to include citation, authors, links and license with the DESCRIPTION file updated correspondingly.
 
 ## Functions
 A list of exported functions is also available under the **reference** tab.
